@@ -38,9 +38,9 @@ def update_readme(path: str, replace: dict[str, str]) -> None:
         end_marker = f"<!-- END_SECTION:{key} -->"
         start_index = text.find(start_marker)
         end_index = text.find(end_marker)
-        text = (
-            text[:start_index] + text[start_index:end_index] + value + text[end_index:]
-        )
+
+        # Add new content between start and end markers
+        text = text[: start_index + len(start_marker)] + value + text[end_index:]
 
     with open(path, "w") as file:
         file.write(text)
