@@ -9,6 +9,6 @@ I enjoy building systems and solving problems with code. My specialties are dist
 
 ### I just watched...
 
-<!-- START_SECTION:films -->[The Odyssey, 2026 - ★★★★½](https://letterboxd.com/pdeziel/film/the-odyssey-2026/)
+<!-- START_SECTION:films -->[Pokémon the Movie 2000, 1999 - ★½](https://letterboxd.com/pdeziel/film/pokemon-the-movie-2000/)
 
-<img src="https://a.ltrbxd.com/resized/film-poster/1/2/5/5/3/9/4/1255394-the-odyssey-2026-0-600-0-900-crop.jpg?v=1eed046d0c" alt="The Odyssey, 2026 - ★★★★½" width="100" height="150" /><!-- END_SECTION:films -->
+<img src="https://a.ltrbxd.com/resized/film-poster/4/4/4/4/1/44441-pokemon-the-movie-2000-0-600-0-900-crop.jpg?v=3d3dabe181" alt="Pokémon the Movie 2000, 1999 - ★½" width="100" height="150" /><!-- END_SECTION:films -->
