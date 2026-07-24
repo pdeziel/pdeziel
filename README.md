@@ -9,6 +9,6 @@ I enjoy building systems and solving problems with code. My specialties are dist
 
 ### I just watched...
 
-<!-- START_SECTION:films -->[Pokémon the Movie 2000, 1999 - ★½](https://letterboxd.com/pdeziel/film/pokemon-the-movie-2000/)
+<!-- START_SECTION:films -->[The Chaser, 2008 - ★★★★](https://letterboxd.com/pdeziel/film/the-chaser/)
 
-<img src="https://a.ltrbxd.com/resized/film-poster/4/4/4/4/1/44441-pokemon-the-movie-2000-0-600-0-900-crop.jpg?v=3d3dabe181" alt="Pokémon the Movie 2000, 1999 - ★½" width="100" height="150" /><!-- END_SECTION:films -->
+<img src="https://a.ltrbxd.com/resized/sm/upload/3l/8e/hm/nf/the-chaser-0-600-0-900-crop.jpg?v=c93c9856fa" alt="The Chaser, 2008 - ★★★★" width="100" height="150" /><!-- END_SECTION:films -->
