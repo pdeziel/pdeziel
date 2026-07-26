@@ -9,6 +9,6 @@ I enjoy building systems and solving problems with code. My specialties are dist
 
 ### I just watched...
 
-<!-- START_SECTION:films -->[The Chaser, 2008 - ★★★★](https://letterboxd.com/pdeziel/film/the-chaser/)
+<!-- START_SECTION:films -->[The Running Man, 1987 - ★★½](https://letterboxd.com/pdeziel/film/the-running-man/)
 
-<img src="https://a.ltrbxd.com/resized/sm/upload/3l/8e/hm/nf/the-chaser-0-600-0-900-crop.jpg?v=c93c9856fa" alt="The Chaser, 2008 - ★★★★" width="100" height="150" /><!-- END_SECTION:films -->
+<img src="https://a.ltrbxd.com/resized/film-poster/5/1/2/8/7/51287-the-running-man-0-600-0-900-crop.jpg?v=bfb575fbfa" alt="The Running Man, 1987 - ★★½" width="100" height="150" /><!-- END_SECTION:films -->
