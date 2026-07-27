@@ -9,6 +9,6 @@ I enjoy building systems and solving problems with code. My specialties are dist
 
 ### I just watched...
 
-<!-- START_SECTION:films -->[The Running Man, 1987 - ★★½](https://letterboxd.com/pdeziel/film/the-running-man/)
+<!-- START_SECTION:films -->[Hot Fuzz, 2007 - ★★★★★](https://letterboxd.com/pdeziel/film/hot-fuzz/)
 
-<img src="https://a.ltrbxd.com/resized/film-poster/5/1/2/8/7/51287-the-running-man-0-600-0-900-crop.jpg?v=bfb575fbfa" alt="The Running Man, 1987 - ★★½" width="100" height="150" /><!-- END_SECTION:films -->
+<img src="https://a.ltrbxd.com/resized/sm/upload/xe/2y/e6/gy/4XLSKzQcE4lIgJgd71Y8UhAhxqQ-0-600-0-900-crop.jpg?v=45bc32b708" alt="Hot Fuzz, 2007 - ★★★★★" width="100" height="150" /><!-- END_SECTION:films -->
