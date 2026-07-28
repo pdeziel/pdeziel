@@ -9,6 +9,6 @@ I enjoy building systems and solving problems with code. My specialties are dist
 
 ### I just watched...
 
-<!-- START_SECTION:films -->[Hot Fuzz, 2007 - ★★★★★](https://letterboxd.com/pdeziel/film/hot-fuzz/)
+<!-- START_SECTION:films -->[Ex Machina, 2015 - ★★★★½](https://letterboxd.com/pdeziel/film/ex-machina-2015/)
 
-<img src="https://a.ltrbxd.com/resized/sm/upload/xe/2y/e6/gy/4XLSKzQcE4lIgJgd71Y8UhAhxqQ-0-600-0-900-crop.jpg?v=45bc32b708" alt="Hot Fuzz, 2007 - ★★★★★" width="100" height="150" /><!-- END_SECTION:films -->
+<img src="https://a.ltrbxd.com/resized/film-poster/1/8/7/9/8/6/187986-ex-machina-0-600-0-900-crop.jpg?v=2b4212d498" alt="Ex Machina, 2015 - ★★★★½" width="100" height="150" /><!-- END_SECTION:films -->
