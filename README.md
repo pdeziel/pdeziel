@@ -9,6 +9,6 @@ I enjoy building systems and solving problems with code. My specialties are dist
 
 ### I just watched...
 
-<!-- START_SECTION:films -->[Ex Machina, 2015 - ★★★★½](https://letterboxd.com/pdeziel/film/ex-machina-2015/)
+<!-- START_SECTION:films -->[Batman: The Dark Knight Returns, Part 1, 2012 - ★★★★](https://letterboxd.com/pdeziel/film/batman-the-dark-knight-returns-part-1/)
 
-<img src="https://a.ltrbxd.com/resized/film-poster/1/8/7/9/8/6/187986-ex-machina-0-600-0-900-crop.jpg?v=2b4212d498" alt="Ex Machina, 2015 - ★★★★½" width="100" height="150" /><!-- END_SECTION:films -->
+<img src="https://a.ltrbxd.com/resized/sm/upload/fj/e7/jc/pf/t1UAqk1Yej8rfxEUqNLFyKkcny1-0-600-0-900-crop.jpg?v=f86d4acd15" alt="Batman: The Dark Knight Returns, Part 1, 2012 - ★★★★" width="100" height="150" /><!-- END_SECTION:films -->
