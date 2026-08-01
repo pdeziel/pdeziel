@@ -9,6 +9,6 @@ I enjoy building systems and solving problems with code. My specialties are dist
 
 ### I just watched...
 
-<!-- START_SECTION:films -->[Batman: The Dark Knight Returns, Part 1, 2012 - ★★★★](https://letterboxd.com/pdeziel/film/batman-the-dark-knight-returns-part-1/)
+<!-- START_SECTION:films -->[Parasite, 2019 - ★★★★★](https://letterboxd.com/pdeziel/film/parasite-2019/)
 
-<img src="https://a.ltrbxd.com/resized/sm/upload/fj/e7/jc/pf/t1UAqk1Yej8rfxEUqNLFyKkcny1-0-600-0-900-crop.jpg?v=f86d4acd15" alt="Batman: The Dark Knight Returns, Part 1, 2012 - ★★★★" width="100" height="150" /><!-- END_SECTION:films -->
+<img src="https://a.ltrbxd.com/resized/film-poster/4/2/6/4/0/6/426406-parasite-0-600-0-900-crop.jpg?v=8f5653f710" alt="Parasite, 2019 - ★★★★★" width="100" height="150" /><!-- END_SECTION:films -->
