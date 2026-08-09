@@ -9,6 +9,6 @@ I enjoy building systems and solving problems with code. My specialties are dist
 
 ### I just watched...
 
-<!-- START_SECTION:films -->[Fight Club, 1999 - ★★★★★](https://letterboxd.com/pdeziel/film/fight-club/)
+<!-- START_SECTION:films -->[Wayne's World 2, 1993 - ★★★](https://letterboxd.com/pdeziel/film/waynes-world-2/)
 
-<img src="https://a.ltrbxd.com/resized/film-poster/5/1/5/6/8/51568-fight-club-0-600-0-900-crop.jpg?v=768b32dfa4" alt="Fight Club, 1999 - ★★★★★" width="100" height="150" /><!-- END_SECTION:films -->
+<img src="https://a.ltrbxd.com/resized/film-poster/4/7/5/5/1/47551-wayne-s-world-2-0-600-0-900-crop.jpg?v=eaef7d6016" alt="Wayne's World 2, 1993 - ★★★" width="100" height="150" /><!-- END_SECTION:films -->
