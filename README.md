@@ -9,6 +9,6 @@ I enjoy building systems and solving problems with code. My specialties are dist
 
 ### I just watched...
 
-<!-- START_SECTION:films -->[Old, 2021 - ★](https://letterboxd.com/pdeziel/film/old-2021/)
+<!-- START_SECTION:films -->[The Great Dictator, 1940 - ★★★★½](https://letterboxd.com/pdeziel/film/the-great-dictator/)
 
-<img src="https://a.ltrbxd.com/resized/film-poster/5/5/8/0/5/4/558054-old-0-600-0-900-crop.jpg?v=99abfca3a4" alt="Old, 2021 - ★" width="100" height="150" /><!-- END_SECTION:films -->
+<img src="https://a.ltrbxd.com/resized/film-poster/5/1/2/3/8/51238-the-great-dictator-0-600-0-900-crop.jpg?v=77c9151f10" alt="The Great Dictator, 1940 - ★★★★½" width="100" height="150" /><!-- END_SECTION:films -->
