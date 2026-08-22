@@ -9,6 +9,6 @@ I enjoy building systems and solving problems with code. My specialties are dist
 
 ### I just watched...
 
-<!-- START_SECTION:films -->[The Great Dictator, 1940 - ★★★★½](https://letterboxd.com/pdeziel/film/the-great-dictator/)
+<!-- START_SECTION:films -->[The Visitor, 1979 - ★★](https://letterboxd.com/pdeziel/film/the-visitor-1979/)
 
-<img src="https://a.ltrbxd.com/resized/film-poster/5/1/2/3/8/51238-the-great-dictator-0-600-0-900-crop.jpg?v=77c9151f10" alt="The Great Dictator, 1940 - ★★★★½" width="100" height="150" /><!-- END_SECTION:films -->
+<img src="https://a.ltrbxd.com/resized/sm/upload/gc/az/le/k3/tv45081UZKcFmXGbdFRLaOTcRHo-0-600-0-900-crop.jpg?v=be2db52fc4" alt="The Visitor, 1979 - ★★" width="100" height="150" /><!-- END_SECTION:films -->
