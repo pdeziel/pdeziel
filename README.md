@@ -9,6 +9,6 @@ I enjoy building systems and solving problems with code. My specialties are dist
 
 ### I just watched...
 
-<!-- START_SECTION:films -->[Teenage Sex and Death at Camp Miasma, 2026 - ★★★½](https://letterboxd.com/pdeziel/film/teenage-sex-and-death-at-camp-miasma/)
+<!-- START_SECTION:films -->[Clue, 1985 - ★★★★](https://letterboxd.com/pdeziel/film/clue/)
 
-<img src="https://a.ltrbxd.com/resized/film-poster/1/1/2/3/8/6/7/1123867-teenage-sex-and-death-at-camp-miasma-0-600-0-900-crop.jpg?v=f6059120f8" alt="Teenage Sex and Death at Camp Miasma, 2026 - ★★★½" width="100" height="150" /><!-- END_SECTION:films -->
+<img src="https://a.ltrbxd.com/resized/film-poster/4/2/5/3/1/42531-clue-0-600-0-900-crop.jpg?v=64edadac50" alt="Clue, 1985 - ★★★★" width="100" height="150" /><!-- END_SECTION:films -->
