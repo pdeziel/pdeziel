@@ -9,6 +9,6 @@ I enjoy building systems and solving problems with code. My specialties are dist
 
 ### I just watched...
 
-<!-- START_SECTION:films -->[The Furious, 2025 - ★★★½](https://letterboxd.com/pdeziel/film/the-furious/)
+<!-- START_SECTION:films -->[FernGully: The Last Rainforest, 1992 - ★★★](https://letterboxd.com/pdeziel/film/ferngully-the-last-rainforest/)
 
-<img src="https://a.ltrbxd.com/resized/film-poster/1/1/6/4/1/5/4/1164154-the-furious-0-600-0-900-crop.jpg?v=f880a59523" alt="The Furious, 2025 - ★★★½" width="100" height="150" /><!-- END_SECTION:films -->
+<img src="https://a.ltrbxd.com/resized/film-poster/4/4/0/4/1/44041-ferngully-the-last-rainforest-0-600-0-900-crop.jpg?v=51d4aeca77" alt="FernGully: The Last Rainforest, 1992 - ★★★" width="100" height="150" /><!-- END_SECTION:films -->
