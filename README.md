@@ -9,6 +9,6 @@ I enjoy building systems and solving problems with code. My specialties are dist
 
 ### I just watched...
 
-<!-- START_SECTION:films -->[Pulse, 2001 - ★★★★](https://letterboxd.com/pdeziel/film/pulse-2001/)
+<!-- START_SECTION:films -->[Jackie Brown, 1997 - ★★★★½](https://letterboxd.com/pdeziel/film/jackie-brown/)
 
-<img src="https://a.ltrbxd.com/resized/film-poster/3/4/6/1/8/34618-pulse-0-600-0-900-crop.jpg?v=9e927f3d94" alt="Pulse, 2001 - ★★★★" width="100" height="150" /><!-- END_SECTION:films -->
+<img src="https://a.ltrbxd.com/resized/sm/upload/08/3j/am/rx/4XVPYOdMAizdNMSwS0SK3fPJcvR-0-600-0-900-crop.jpg?v=ddcf6a79e0" alt="Jackie Brown, 1997 - ★★★★½" width="100" height="150" /><!-- END_SECTION:films -->
