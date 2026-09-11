@@ -9,6 +9,6 @@ I enjoy building systems and solving problems with code. My specialties are dist
 
 ### I just watched...
 
-<!-- START_SECTION:films -->[The Hunger Games: Mockingjay – Part 2, 2015 - ★★](https://letterboxd.com/pdeziel/film/the-hunger-games-mockingjay-part-2/)
+<!-- START_SECTION:films -->[Riki-Oh: The Story of Ricky, 1991 - ★★★★](https://letterboxd.com/pdeziel/film/riki-oh-the-story-of-ricky/)
 
-<img src="https://a.ltrbxd.com/resized/sm/upload/tq/6c/uw/7r/nN4cEJMHJHbJBsp3vvvhtNWLGqg-0-600-0-900-crop.jpg?v=2b65a152e1" alt="The Hunger Games: Mockingjay – Part 2, 2015 - ★★" width="100" height="150" /><!-- END_SECTION:films -->
+<img src="https://a.ltrbxd.com/resized/film-poster/4/0/9/9/1/40991-riki-oh-the-story-of-ricky-0-600-0-900-crop.jpg?v=63b4d22923" alt="Riki-Oh: The Story of Ricky, 1991 - ★★★★" width="100" height="150" /><!-- END_SECTION:films -->
