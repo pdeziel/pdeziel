@@ -9,6 +9,6 @@ I enjoy building systems and solving problems with code. My specialties are dist
 
 ### I just watched...
 
-<!-- START_SECTION:films -->[Batman Beyond: Return of the Joker, 2000 - ★★★½](https://letterboxd.com/pdeziel/film/batman-beyond-return-of-the-joker/)
+<!-- START_SECTION:films -->[Resident Evil, 2026 - ★★★★](https://letterboxd.com/pdeziel/film/resident-evil-2026/)
 
-<img src="https://a.ltrbxd.com/resized/film-poster/4/1/7/1/9/41719-batman-beyond-return-of-the-joker-0-600-0-900-crop.jpg?v=9327ea7c7f" alt="Batman Beyond: Return of the Joker, 2000 - ★★★½" width="100" height="150" /><!-- END_SECTION:films -->
+<img src="https://a.ltrbxd.com/resized/film-poster/1/3/0/2/7/1/7/1302717-untitled-resident-evil-reboot-0-600-0-900-crop.jpg?v=a688bf1bc7" alt="Resident Evil, 2026 - ★★★★" width="100" height="150" /><!-- END_SECTION:films -->
