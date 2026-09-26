@@ -9,6 +9,6 @@ I enjoy building systems and solving problems with code. My specialties are dist
 
 ### I just watched...
 
-<!-- START_SECTION:films -->[M, 1931 - ★★★★½](https://letterboxd.com/pdeziel/film/m/)
+<!-- START_SECTION:films -->[Primetime, 2026 - ★★★★](https://letterboxd.com/pdeziel/film/primetime-2026/)
 
-<img src="https://a.ltrbxd.com/resized/film-poster/5/1/3/2/0/51320-m-0-600-0-900-crop.jpg?v=8c52412b7a" alt="M, 1931 - ★★★★½" width="100" height="150" /><!-- END_SECTION:films -->
+<img src="https://a.ltrbxd.com/resized/film-poster/1/2/6/2/0/1/9/1262019-primetime-2026-0-600-0-900-crop.jpg?v=41640d6988" alt="Primetime, 2026 - ★★★★" width="100" height="150" /><!-- END_SECTION:films -->
