@@ -9,6 +9,6 @@ I enjoy building systems and solving problems with code. My specialties are dist
 
 ### I just watched...
 
-<!-- START_SECTION:films -->[The Hitchhiker's Guide to the Galaxy, 2005 - ★★★](https://letterboxd.com/pdeziel/film/the-hitchhikers-guide-to-the-galaxy-2005/)
+<!-- START_SECTION:films -->[Obsession, 2025 - ★★★★★](https://letterboxd.com/pdeziel/film/obsession-2025/)
 
-<img src="https://a.ltrbxd.com/resized/film-poster/4/8/0/2/3/48023-the-hitchhiker-s-guide-to-the-galaxy-0-600-0-900-crop.jpg?v=f75fe170e6" alt="The Hitchhiker's Guide to the Galaxy, 2005 - ★★★" width="100" height="150" /><!-- END_SECTION:films -->
+<img src="https://a.ltrbxd.com/resized/film-poster/1/2/3/4/4/7/2/1234472-obsession-2025-2-0-600-0-900-crop.jpg?v=cff6fc00b6" alt="Obsession, 2025 - ★★★★★" width="100" height="150" /><!-- END_SECTION:films -->
