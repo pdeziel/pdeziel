@@ -9,6 +9,6 @@ I enjoy building systems and solving problems with code. My specialties are dist
 
 ### I just watched...
 
-<!-- START_SECTION:films -->[Relic, 2020 - ★★★](https://letterboxd.com/pdeziel/film/relic/)
+<!-- START_SECTION:films -->[Is God Is, 2026 - ★★★½](https://letterboxd.com/pdeziel/film/is-god-is/)
 
-<img src="https://a.ltrbxd.com/resized/film-poster/4/6/8/4/0/3/468403-relic-0-600-0-900-crop.jpg?v=3066e17fdc" alt="Relic, 2020 - ★★★" width="100" height="150" /><!-- END_SECTION:films -->
+<img src="https://a.ltrbxd.com/resized/film-poster/1/2/6/6/2/1/6/1266216-is-god-is-0-600-0-900-crop.jpg?v=088dc7a2fc" alt="Is God Is, 2026 - ★★★½" width="100" height="150" /><!-- END_SECTION:films -->
