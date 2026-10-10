@@ -9,6 +9,6 @@ I enjoy building systems and solving problems with code. My specialties are dist
 
 ### I just watched...
 
-<!-- START_SECTION:films -->[Is God Is, 2026 - ★★★½](https://letterboxd.com/pdeziel/film/is-god-is/)
+<!-- START_SECTION:films -->[Eddington, 2025 - ★★★★½](https://letterboxd.com/pdeziel/film/eddington/)
 
-<img src="https://a.ltrbxd.com/resized/film-poster/1/2/6/6/2/1/6/1266216-is-god-is-0-600-0-900-crop.jpg?v=088dc7a2fc" alt="Is God Is, 2026 - ★★★½" width="100" height="150" /><!-- END_SECTION:films -->
+<img src="https://a.ltrbxd.com/resized/film-poster/5/7/4/5/9/5/574595-eddington-0-600-0-900-crop.jpg?v=925abc6d9b" alt="Eddington, 2025 - ★★★★½" width="100" height="150" /><!-- END_SECTION:films -->
