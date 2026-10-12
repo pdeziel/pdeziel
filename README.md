@@ -9,6 +9,6 @@ I enjoy building systems and solving problems with code. My specialties are dist
 
 ### I just watched...
 
-<!-- START_SECTION:films -->[Practical Magic, 1998 - ★★](https://letterboxd.com/pdeziel/film/practical-magic/)
+<!-- START_SECTION:films -->[Messiah of Evil, 1974 - ★★★](https://letterboxd.com/pdeziel/film/messiah-of-evil/)
 
-<img src="https://a.ltrbxd.com/resized/film-poster/4/8/3/2/2/48322-practical-magic-0-600-0-900-crop.jpg?v=5994b961f2" alt="Practical Magic, 1998 - ★★" width="100" height="150" /><!-- END_SECTION:films -->
+<img src="https://a.ltrbxd.com/resized/sm/upload/xx/ut/30/b1/7E1l2sRXOWWGq5loMFn4ev4AwR1-0-600-0-900-crop.jpg?v=c701eaba50" alt="Messiah of Evil, 1974 - ★★★" width="100" height="150" /><!-- END_SECTION:films -->
