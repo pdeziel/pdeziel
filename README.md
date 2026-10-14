@@ -9,6 +9,6 @@ I enjoy building systems and solving problems with code. My specialties are dist
 
 ### I just watched...
 
-<!-- START_SECTION:films -->[The Invisible Man, 2020 - ★★★★](https://letterboxd.com/pdeziel/film/the-invisible-man-2020/)
+<!-- START_SECTION:films -->[Cape Fear, 1991 - ★★★★](https://letterboxd.com/pdeziel/film/cape-fear-1991/)
 
-<img src="https://a.ltrbxd.com/resized/film-poster/4/9/9/0/8/5/499085-the-invisible-man-0-600-0-900-crop.jpg?v=b9561b767f" alt="The Invisible Man, 2020 - ★★★★" width="100" height="150" /><!-- END_SECTION:films -->
+<img src="https://a.ltrbxd.com/resized/film-poster/5/0/9/3/6/50936-cape-fear-1991-0-600-0-900-crop.jpg?v=fa3497476a" alt="Cape Fear, 1991 - ★★★★" width="100" height="150" /><!-- END_SECTION:films -->
