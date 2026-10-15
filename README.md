@@ -9,6 +9,6 @@ I enjoy building systems and solving problems with code. My specialties are dist
 
 ### I just watched...
 
-<!-- START_SECTION:films -->[Cape Fear, 1991 - ★★★★](https://letterboxd.com/pdeziel/film/cape-fear-1991/)
+<!-- START_SECTION:films -->[Dawn of the Dead, 1978 - ★★★](https://letterboxd.com/pdeziel/film/dawn-of-the-dead/)
 
-<img src="https://a.ltrbxd.com/resized/film-poster/5/0/9/3/6/50936-cape-fear-1991-0-600-0-900-crop.jpg?v=fa3497476a" alt="Cape Fear, 1991 - ★★★★" width="100" height="150" /><!-- END_SECTION:films -->
+<img src="https://a.ltrbxd.com/resized/sm/upload/q9/17/om/9y/8D6WEfNZr6JadQrqJr5OOq1QlV0-0-600-0-900-crop.jpg?v=b65bcfbd46" alt="Dawn of the Dead, 1978 - ★★★" width="100" height="150" /><!-- END_SECTION:films -->
