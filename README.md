@@ -9,6 +9,6 @@ I enjoy building systems and solving problems with code. My specialties are dist
 
 ### I just watched...
 
-<!-- START_SECTION:films -->[Dawn of the Dead, 1978 - ★★★](https://letterboxd.com/pdeziel/film/dawn-of-the-dead/)
+<!-- START_SECTION:films -->[Suspiria, 1977 - ★★★★★](https://letterboxd.com/pdeziel/film/suspiria/)
 
-<img src="https://a.ltrbxd.com/resized/sm/upload/q9/17/om/9y/8D6WEfNZr6JadQrqJr5OOq1QlV0-0-600-0-900-crop.jpg?v=b65bcfbd46" alt="Dawn of the Dead, 1978 - ★★★" width="100" height="150" /><!-- END_SECTION:films -->
+<img src="https://a.ltrbxd.com/resized/film-poster/4/4/9/0/0/44900-suspiria-0-600-0-900-crop.jpg?v=d1fbb1d377" alt="Suspiria, 1977 - ★★★★★" width="100" height="150" /><!-- END_SECTION:films -->
