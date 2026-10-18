@@ -9,6 +9,6 @@ I enjoy building systems and solving problems with code. My specialties are dist
 
 ### I just watched...
 
-<!-- START_SECTION:films -->[Suspiria, 1977 - ★★★★★](https://letterboxd.com/pdeziel/film/suspiria/)
+<!-- START_SECTION:films -->[You Can See Everything, 2026 - ★★★★★](https://letterboxd.com/pdeziel/film/you-can-see-everything/)
 
-<img src="https://a.ltrbxd.com/resized/film-poster/4/4/9/0/0/44900-suspiria-0-600-0-900-crop.jpg?v=d1fbb1d377" alt="Suspiria, 1977 - ★★★★★" width="100" height="150" /><!-- END_SECTION:films -->
+<img src="https://a.ltrbxd.com/resized/film-poster/1/6/2/9/4/4/3/1629443-you-can-see-everything-0-600-0-900-crop.jpg?v=84f6724d74" alt="You Can See Everything, 2026 - ★★★★★" width="100" height="150" /><!-- END_SECTION:films -->
