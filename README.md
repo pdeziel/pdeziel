@@ -9,6 +9,6 @@ I enjoy building systems and solving problems with code. My specialties are dist
 
 ### I just watched...
 
-<!-- START_SECTION:films -->[You Can See Everything, 2026 - ★★★★★](https://letterboxd.com/pdeziel/film/you-can-see-everything/)
+<!-- START_SECTION:films -->[Scream 3, 2000 - ★★★](https://letterboxd.com/pdeziel/film/scream-3/)
 
-<img src="https://a.ltrbxd.com/resized/film-poster/1/6/2/9/4/4/3/1629443-you-can-see-everything-0-600-0-900-crop.jpg?v=84f6724d74" alt="You Can See Everything, 2026 - ★★★★★" width="100" height="150" /><!-- END_SECTION:films -->
+<img src="https://a.ltrbxd.com/resized/film-poster/4/9/4/5/3/49453-scream-3-0-600-0-900-crop.jpg?v=7ba5075018" alt="Scream 3, 2000 - ★★★" width="100" height="150" /><!-- END_SECTION:films -->
