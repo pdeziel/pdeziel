@@ -9,6 +9,6 @@ I enjoy building systems and solving problems with code. My specialties are dist
 
 ### I just watched...
 
-<!-- START_SECTION:films -->[The Babadook, 2014 - ★★★½](https://letterboxd.com/pdeziel/film/the-babadook/)
+<!-- START_SECTION:films -->[The Faculty, 1998 - ★★★](https://letterboxd.com/pdeziel/film/the-faculty/)
 
-<img src="https://a.ltrbxd.com/resized/film-poster/1/6/9/7/2/8/169728-the-babadook-0-600-0-900-crop.jpg?v=0821d9c945" alt="The Babadook, 2014 - ★★★½" width="100" height="150" /><!-- END_SECTION:films -->
+<img src="https://a.ltrbxd.com/resized/film-poster/4/7/3/1/6/47316-the-faculty-0-600-0-900-crop.jpg?v=c52dd149a6" alt="The Faculty, 1998 - ★★★" width="100" height="150" /><!-- END_SECTION:films -->
