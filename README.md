@@ -9,6 +9,6 @@ I enjoy building systems and solving problems with code. My specialties are dist
 
 ### I just watched...
 
-<!-- START_SECTION:films -->[Strange Darling, 2023 - ★★](https://letterboxd.com/pdeziel/film/strange-darling/)
+<!-- START_SECTION:films -->[Housebound, 2014 - ★★★½](https://letterboxd.com/pdeziel/film/housebound/)
 
-<img src="https://a.ltrbxd.com/resized/film-poster/9/2/7/8/3/2/927832-strange-darling-0-600-0-900-crop.jpg?v=4bfda06e23" alt="Strange Darling, 2023 - ★★" width="100" height="150" /><!-- END_SECTION:films -->
+<img src="https://a.ltrbxd.com/resized/film-poster/1/7/7/1/3/6/177136-housebound-0-600-0-900-crop.jpg?v=067c115c12" alt="Housebound, 2014 - ★★★½" width="100" height="150" /><!-- END_SECTION:films -->
