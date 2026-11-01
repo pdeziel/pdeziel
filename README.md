@@ -9,6 +9,6 @@ I enjoy building systems and solving problems with code. My specialties are dist
 
 ### I just watched...
 
-<!-- START_SECTION:films -->[Hokum, 2026 - ★★★★](https://letterboxd.com/pdeziel/film/hokum/)
+<!-- START_SECTION:films -->[Cure, 1997 - ★★★★](https://letterboxd.com/pdeziel/film/cure/)
 
-<img src="https://a.ltrbxd.com/resized/film-poster/1/3/0/8/5/8/7/1308587-hokum-0-600-0-900-crop.jpg?v=29deb57767" alt="Hokum, 2026 - ★★★★" width="100" height="150" /><!-- END_SECTION:films -->
+<img src="https://a.ltrbxd.com/resized/film-poster/2/8/1/9/5/28195-cure-0-600-0-900-crop.jpg?v=74a48c4849" alt="Cure, 1997 - ★★★★" width="100" height="150" /><!-- END_SECTION:films -->
