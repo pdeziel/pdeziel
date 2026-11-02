@@ -9,6 +9,6 @@ I enjoy building systems and solving problems with code. My specialties are dist
 
 ### I just watched...
 
-<!-- START_SECTION:films -->[Cure, 1997 - ★★★★](https://letterboxd.com/pdeziel/film/cure/)
+<!-- START_SECTION:films -->[This Is the End, 2013 - ★½](https://letterboxd.com/pdeziel/film/this-is-the-end/)
 
-<img src="https://a.ltrbxd.com/resized/film-poster/2/8/1/9/5/28195-cure-0-600-0-900-crop.jpg?v=74a48c4849" alt="Cure, 1997 - ★★★★" width="100" height="150" /><!-- END_SECTION:films -->
+<img src="https://a.ltrbxd.com/resized/sm/upload/jc/9p/19/zx/oie_1512543TJ3vNUDP-0-600-0-900-crop.jpg?v=8b2686919f" alt="This Is the End, 2013 - ★½" width="100" height="150" /><!-- END_SECTION:films -->
