@@ -9,6 +9,6 @@ I enjoy building systems and solving problems with code. My specialties are dist
 
 ### I just watched...
 
-<!-- START_SECTION:films -->[Godzilla Minus Zero, 2026 - ★★★½](https://letterboxd.com/pdeziel/film/godzilla-minus-zero/)
+<!-- START_SECTION:films -->[The Day After Tomorrow, 2004 - ★](https://letterboxd.com/pdeziel/film/the-day-after-tomorrow/)
 
-<img src="https://a.ltrbxd.com/resized/film-poster/1/2/6/6/6/8/4/1266684-godzilla-minus-zero-0-600-0-900-crop.jpg?v=38989be61d" alt="Godzilla Minus Zero, 2026 - ★★★½" width="100" height="150" /><!-- END_SECTION:films -->
+<img src="https://a.ltrbxd.com/resized/sm/upload/y4/7o/ft/rg/pRmpaFjtegy8PnUvSBDyT9dm7c-0-600-0-900-crop.jpg?v=a685626868" alt="The Day After Tomorrow, 2004 - ★" width="100" height="150" /><!-- END_SECTION:films -->
