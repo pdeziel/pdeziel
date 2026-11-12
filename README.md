@@ -9,6 +9,6 @@ I enjoy building systems and solving problems with code. My specialties are dist
 
 ### I just watched...
 
-<!-- START_SECTION:films -->[The Day After Tomorrow, 2004 - ★](https://letterboxd.com/pdeziel/film/the-day-after-tomorrow/)
+<!-- START_SECTION:films -->[Following, 1998 - ★★★½](https://letterboxd.com/pdeziel/film/following/)
 
-<img src="https://a.ltrbxd.com/resized/sm/upload/y4/7o/ft/rg/pRmpaFjtegy8PnUvSBDyT9dm7c-0-600-0-900-crop.jpg?v=a685626868" alt="The Day After Tomorrow, 2004 - ★" width="100" height="150" /><!-- END_SECTION:films -->
+<img src="https://a.ltrbxd.com/resized/film-poster/4/5/0/9/3/45093-following-0-600-0-900-crop.jpg?v=27b572a020" alt="Following, 1998 - ★★★½" width="100" height="150" /><!-- END_SECTION:films -->
